@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kubernetes-zookeeper:1.0-3.4.10
+FROM gcr.io/google_samples/k8szk:v1
 MAINTAINER fred.lu<fredlu122@163.com>
